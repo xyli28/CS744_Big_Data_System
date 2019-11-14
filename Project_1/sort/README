@@ -1,0 +1,8 @@
+The run.sh contains: 
+
+spark-submit sort.py $1 $2
+
+The first argument is input file path (hdfs://IP:PORT/path_to_input) and the second argument is output file path.
+
+To run 
+./run.sh input_file_path output_file_path

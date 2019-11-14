@@ -1,0 +1,5 @@
+We use tensorflow version 1.13.2 for this part.
+You can specify distribute mode in run.sh file.
+
+./run.sh to execute the script
+

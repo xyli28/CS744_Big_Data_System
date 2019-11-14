@@ -1,0 +1,1 @@
+spark-submit page_rank.py $1 $2

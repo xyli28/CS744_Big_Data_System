@@ -1,0 +1,5 @@
+We use tensorflow version 1.14 for this part.
+You can specify number of nodes in run.sh file.
+
+./run.sh to execute the script
+

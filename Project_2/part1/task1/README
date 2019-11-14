@@ -1,0 +1,4 @@
+We use tensorflow version 1.13.2 for this part to run single node logistic regression.
+
+./run.sh to execute the script
+
